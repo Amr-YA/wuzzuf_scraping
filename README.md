@@ -16,3 +16,5 @@ All the extracted data will be grouped in a table and saved in a local CSV file.
   - Skills required
 - Extracted info from inside each post page:
   - Salary
+
+Note: To run selenium, an exe for the firefox driver <a href=https://github.com/mozilla/geckodriver/releases>(GeckoDriver)</a> is needed
